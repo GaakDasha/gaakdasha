@@ -4,11 +4,12 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Dasha </h1>
 	<h3>Data scientist</h3>
-</div>
-
-<a href="linkedin-url">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+	
+	</a>
+	<a href="@Dara_Shel">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+	
 <!--
 **GaakDasha/gaakdasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
