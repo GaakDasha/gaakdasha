@@ -14,8 +14,9 @@
 
 
 
-**About me**
+**ОБО МНЕ**
 
+Мое [резюме]([cv-link](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list))
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
