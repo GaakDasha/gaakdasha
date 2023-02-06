@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <div id="header" align="center">
 	<h1>Hi there, I'm Dasha </h1>
 	<h3>Data scientist</h3>
@@ -14,6 +11,8 @@
 
 
 
-**Обо мне**
+
+
+### Обо мне
 
 📫Мое [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
