@@ -25,4 +25,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaakdasha&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaakdasha&theme=github_dark)
