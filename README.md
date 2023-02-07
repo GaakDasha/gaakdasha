@@ -16,3 +16,13 @@
 ### Обо мне
 
 📫Мое [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaakdasha&theme=nord_dark)
