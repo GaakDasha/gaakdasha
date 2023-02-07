@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Dasha </h1>
+	<h1>𝕙𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔻𝕒𝕤𝕙𝕒 </h1>
 	<h3>Data scientist</h3>
 	
 <div id="socials" align="center">
@@ -8,8 +8,6 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-
-
 
 
 
