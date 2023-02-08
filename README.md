@@ -1,6 +1,6 @@
 <div id="header" align="center">
-	<h1>𝕙𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔻𝕒𝕤𝕙𝕒 </h1>
-	<h3>Data scientist</h3>
+	<h1>ℍ𝕚, 𝕟𝕚𝕔𝕖 𝕥𝕠 𝕤𝕖𝕖 𝕪𝕠𝕦 🤍 </h1>
+	<h3>Data scientist from Siberia</h3>
 	
 <div id="socials" align="center">
 	</a>
@@ -9,11 +9,27 @@
 	</a>
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-gaakdasha&color=blue)
 
 ### Обо мне
 
-📫Мое [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
+В начале 2023 года закончила курс **"Специалист по Data Science"**    
+от Яндекс.Практикума
+
+Работаю **младшим научным сотрудником** в компании,    
+которая разрабатывает ПО для электроимпедансного томографа. 
+
+Начинала карьеру в медицине в должности медицинской сестры,  
+закончила начальником отдела сопровождения НИОКР в медицинском ВУЗе
+
+📃 Подробности в [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
+
+📗 Люблю читать  
+🔥 Обожаю порядок и структуру  
+🏚️ Живу в Томске  
+🧭 Путешествую по Сибири  
+
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
@@ -23,10 +39,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 
 
-![Image alt](https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_certificate.jpg)
-
-
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaakdasha&theme=github_dark)
+<img src="https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_certificate.jpg" width="400">
+<img src="https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_course%20program.jpg" width="400">
