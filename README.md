@@ -23,12 +23,6 @@
 📃 Подробнее о карьерном пути в [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
 
 
-📗 Люблю читать  
-🔥 Обожаю порядок и структуру  
-🏚️ Живу в Томске  
-🧭 Путешествую по Сибири  
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
