@@ -23,7 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 
 
-![Image alt](https://github.com/GaakDasha/gaakdasha/blob/main/photo_5413501398810740196_y.jpg)
+![Image alt](https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_certificate.jpg)
+
 
 
 
