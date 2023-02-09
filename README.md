@@ -34,7 +34,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 
-
-<img src="https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_certificate.jpg" width="400">
-<img src="https://github.com/GaakDasha/gaakdasha/blob/main/Gaak%20Darya_course%20program.jpg" width="400">
-
