@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h1>ℍ𝕚, 𝕟𝕚𝕔𝕖 𝕥𝕠 𝕤𝕖𝕖 𝕪𝕠𝕦 🤍 </h1>
+	<h1>𝕟𝕚𝕔𝕖 𝕥𝕠 𝕞𝕖𝕖𝕥 𝕪𝕠𝕦 🤍 </h1>
 	<h3>Data scientist from Siberia</h3>
 	
 <div id="socials" align="center">
