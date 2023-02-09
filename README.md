@@ -3,7 +3,7 @@
 <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Nice%20to%20meet%20you.png" width="400">
 
 	
-<div id="socials" align="center">
+<div id="socials" align="left">
 	</a>
 	<a href="https://t.me/Dara_Shel">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
