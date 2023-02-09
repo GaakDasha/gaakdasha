@@ -1,6 +1,7 @@
-<div id="header" align="center">
-	<h1>ℕ𝕚𝕔𝕖 𝕥𝕠 𝕞𝕖𝕖𝕥 𝕪𝕠𝕦 🤍 </h1>
-	<h3>Data scientist from Siberia</h3>
+
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Nice%20to%20meet%20you.png" width="400">
+
+
 	
 <div id="socials" align="center">
 	</a>
