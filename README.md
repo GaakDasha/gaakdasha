@@ -10,6 +10,10 @@
 	</a>
 </div>
 
+### [Сертификаты](https://github.com/GaakDasha/Sertificate)  
+### [Резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
+
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-gaakdasha&color=blue)
 
@@ -20,9 +24,6 @@
 
 Работаю **младшим научным сотрудником** в компании,    
 которая разрабатывает ПО для электроимпедансного томографа
-
-
-📃 Подробнее о карьерном пути в [резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
 
 
 
