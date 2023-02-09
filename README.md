@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Nice%20to%20meet%20you.png" width="400">
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Nice%20to%20meet%20you%20%F0%9F%A4%8D.png" width="400">
 
 	
 <div id="socials" align="left">
