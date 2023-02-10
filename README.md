@@ -33,7 +33,19 @@
 
 
 
-<img src="https://github.com/GaakDasha/GaakDasha/blob/main/1.svg" title="numpy"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Python.svg" title="python"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Pandas.svg" title="pandas"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Scikit-learn.svg" title="scikit-learn"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Numpy.svg" title="numpy"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Postgres.svg" title="postgres"/>&nbsp;
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Keras.svg" title="keras"/>&nbsp;
+
+
+
+
+
+
+
 
 
 
