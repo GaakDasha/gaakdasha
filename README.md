@@ -20,10 +20,7 @@
 
 | Название проекта| Описание проекта | Цель проекта | Библиотеки и инструменты |
 | ------------- |--------|--------| -----|
-| [**16. Телеком**](https://github.com/GaakDasha/Practicum-by-Yandex/blob/main/16.%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.ipynb)      | Прогноз оттока клиентов для оператора связи| Построить модель со значением метрики качества ROC_AUC не менее 0.85 на тестовой выборке| Catboost, Randomforestclassifier |
-
-
-
+| [**16. Телеком**](https://github.com/GaakDasha/Practicum-by-Yandex/blob/main/16.%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.ipynb)      | Прогноз оттока клиентов для оператора связи| Построить модель со значением метрики качества ROC_AUC не менее 0.85 на тестовой выборке| pandas, numpy, seaborn, matplotlib, sklearn, OrdinalEncoder, StandardScaler, RandomForestClassifier,  CatBoostClassifier, phik, GridSearchCV,confusion_matrix, roc_auc_score, roc_curve|
 
 
 <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Python.svg" title="python"/>&nbsp;
