@@ -20,10 +20,8 @@
 
 | Название проекта| Описание проекта | Цель проекта | Библиотеки и инструменты |
 | ------------- |--------|--------| -----|
-| [**16. Телеком**](https://github.com/GaakDasha/Practicum-by-Yandex/blob/main/16.%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.ipynb)      | Прогноз оттока клиентов для оператора связи| Построить модель со значением метрики качества ROC_AUC не менее 0.85 на тестовой выборке| Pandas, Numpy, Seaborn, Matplotlib, Sklearn, OrdinalEncoder, StandardScaler, RandomForestClassifier,  CatBoostClassifier, Phik, GridSearchCV, Confusion_matrix, Roc_auc_score, Roc_curve|
 | [**1. Яндекс.Музыка**](https://github.com/GaakDasha/Practicum-by-Yandex/blob/main/1.%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.ipynb)      | Исследование музыки больших городов| Исследовать поведение пользователей Яндекс.Музыки и проверить гипотезы| Pandas|
-
-
+| [**16. Телеком**](https://github.com/GaakDasha/Practicum-by-Yandex/blob/main/16.%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.ipynb)      | Прогноз оттока клиентов для оператора связи| Построить модель со значением метрики качества ROC_AUC не менее 0.85 на тестовой выборке| Pandas, Numpy, Seaborn, Matplotlib, Sklearn, OrdinalEncoder, StandardScaler, RandomForestClassifier,  CatBoostClassifier, Phik, GridSearchCV, Confusion_matrix, Roc_auc_score, Roc_curve|
 
 
 
