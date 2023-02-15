@@ -16,6 +16,12 @@
 ### [Резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
 
 
+
+<img src="https://github.com/GaakDasha/GaakDasha/blob/main/Space.png" width="1200">
+
+
+
+
 ## Проекты Data Science
 
 | Название проекта| Описание проекта | Цель проекта | Библиотеки и инструменты |
