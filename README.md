@@ -10,7 +10,7 @@
 	</a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-gaakdasha&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-data-witch&color=blue)
 
 ### [Сертификаты](https://github.com/GaakDasha/Sertificate)  
 ### [Резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
